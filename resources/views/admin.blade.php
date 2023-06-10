@@ -148,6 +148,12 @@
             </tr>
         </tbody>
       </table>
+
+      <div class="row">
+            <div class="collg-6">
+                
+            </div>
+      </div>
 </div>
 
 
