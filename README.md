@@ -24,3 +24,8 @@ Dashboard with Laravel Login
     Server running on [http://127.0.0.1:8000].  
 
 9. go to that link
+
+## Password and username 
+
+- username : welch.jettie@example.org
+- password : password
