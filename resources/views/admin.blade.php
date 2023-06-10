@@ -61,6 +61,14 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-lg-2">
+            <h3>Description : </h3>
+        </div>
+        <div class="col-lg-4">
+            <input type="text" name="" id="" class="form-control dash-imput" placeholder="Description">
+        </div>
+    </div>
 </div>
 
 
