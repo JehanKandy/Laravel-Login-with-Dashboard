@@ -113,7 +113,7 @@
     </div>
     <div class="col-lg-6">
         <div class="dash-card">
-            <table class="table">
+            <table class="table table-striped table-hover">
                 <thead class="table-primary">
                   <tr>
                     <th scope="col">Code</th>
