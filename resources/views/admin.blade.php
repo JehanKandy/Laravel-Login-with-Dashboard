@@ -52,7 +52,8 @@
             Customer : <a href="">Create</a> | <a href="">Search</a>
         </div>
         <div class="col-lg-2">
-            No:
+            <p class="text-end">No:</p>
+
         </div>
         <div class="col-lg-2">
             <div class="form-group">
