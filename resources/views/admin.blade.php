@@ -49,7 +49,7 @@
             </div>
         </div>
         <div class="col-lg-2">
-            
+            Customer : <a href="">Create</a> | <a href="">Search</a>
         </div>
         <div class="col-lg-2">
             
