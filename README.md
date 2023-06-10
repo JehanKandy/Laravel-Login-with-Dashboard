@@ -13,3 +13,10 @@ Dashboard with Laravel Login
 4. Don't close that terminal and start another new terminal
 5. run your xampp server
 6. create a new database called `laravel_login_dsh`
+7. Do following `artisan commands`
+
+    - php artisan migrate
+    - php artisan db:seed
+    - php artisan serve
+
+8. 
