@@ -90,21 +90,30 @@
             <input type="text" name="" id="" class="form-control dash-imput">
         </div>
     </div>
+
+    <table class="table">
+        <thead class="table-light">
+            <tr>
+                <th>Item Code</th>
+                <th>Item Name</th>
+                <th>Price</th>
+                <th>Qty</th>
+                <th>Weight</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+      </table>
 </div>
 
-<table class="table">
-    <thead class="table-light">
-        <tr>
-            <th>Item Code</th>
-            <th>Item Name</th>
-            <th>Price</th>
-            <th>Qty</th>
-            <th>Weight</th>
-            <th>Amount</th>
-        </tr>
-    </thead>
-    <tbody>
-      
-    </tbody>
-  </table>
+
 @endsection
