@@ -7,6 +7,9 @@
         width: 100%;
         padding: 20px 30px;
     }
+    .dash-imput{
+        width: 100%;
+    }
 </style>
 
 @section('content')
@@ -37,11 +40,13 @@
         </div>
         <div class="col-lg-2">
             <div class="form-group">
-                <input type="text" name="" id="" class="form-control" placeholder="Customer No">
+                <input type="text" name="" id="" class="form-control dash-imput" placeholder="Customer No">
             </div>
         </div>
         <div class="col-lg-2">
-            
+            <div class="form-group">
+                <input type="text" name="" id="" class="form-control dash-imput" placeholder="Customer Name">
+            </div>
         </div>
         <div class="col-lg-2">
             
