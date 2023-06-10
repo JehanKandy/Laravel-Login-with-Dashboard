@@ -53,7 +53,6 @@
         </div>
         <div class="col-lg-2">
             <h4 class="text-end">No:</h4>
-
         </div>
         <div class="col-lg-2">
             <div class="form-group">
@@ -61,12 +60,24 @@
             </div>
         </div>
     </div>
+    <br>
     <div class="row">
         <div class="col-lg-2">
             <h3>Description : </h3>
         </div>
         <div class="col-lg-4">
             <input type="text" name="" id="" class="form-control dash-imput" placeholder="Description">
+        </div>
+        <div class="col-lg-2">
+
+        </div>
+        <div class="col-lg-2">
+            <h4 class="text-end">No:</h4>
+        </div>
+        <div class="col-lg-2">
+            <div class="form-group">
+                <input type="number" name="" id="" class="form-control dash-imput" placeholder="">
+            </div>
         </div>
     </div>
 </div>
