@@ -13,6 +13,9 @@
     .dash-tabel{
         margin: 20px 0;
     }
+    .input-text{
+        padding: 10px 15px;
+    }
 </style>
 
 @section('content')
@@ -150,8 +153,21 @@
       </table>
 
       <div class="row">
-            <div class="collg-6">
-                
+            <div class="col-lg-6">
+                <ul class="nav nav-pills nav-fill">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Much longer nav link</a>
+                    </li>
+                  </ul>
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Credit</h5>
+                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
             </div>
       </div>
 </div>
