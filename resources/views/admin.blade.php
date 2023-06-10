@@ -183,7 +183,7 @@
                         <tr>
                             <th>Code</th>
                             <th>Description</th>
-                            <th><input type="checkbox" name="" id="" class="form-control"> Quantity</th>
+                            <th>Quantity</th>
                         </tr>
                     </thead>
                     <tbody>
