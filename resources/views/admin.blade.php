@@ -16,6 +16,9 @@
     .input-text{
         padding: 10px 15px;
     }
+    .dash-btn{
+        width: 50%
+    }
 </style>
 
 @section('content')
@@ -213,20 +216,15 @@
         <div class="col-lg-6">               
                 </div>
                 <div class="col-lg-3">
-                    <div class="input-group mb-3">
-                        <h5 class="input-text">Credit</h5>
-                        <input type="text" class="form-control" placeholder="Credit">
-                    </div>
+                    <button type="button" class="btn btn-primary btn-lg">Large button</button>
+                    <button type="button" class="btn btn-secondary btn-lg">Large button</button>
                 </div>
                 <div class="col-lg-3">
-                    <div class="input-group mb-3">
-                        <h5 class="input-text">Gross Amount</h5>
-                        <input type="text" class="form-control" placeholder="Gross Amount">
-                    </div>
+                    <button type="button" class="btn btn-primary btn-lg">Large button</button>
+                    <button type="button" class="btn btn-secondary btn-lg">Large button</button>
                 </div>
-        </div>
-            
-        </div>
+            </div>            
+        
       </div>
 
 </div>
