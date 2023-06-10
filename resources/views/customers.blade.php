@@ -97,6 +97,17 @@
                         <label for="code"><input type="email" name="" id="" class="form-control dash-inputs" placeholder="Email"></label>
                     </div>
                 </div><br>
+                <div class="row">
+                    <div class="col-lg-6">
+                    
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="submit" value="Save" class="btn btn-success" style="width: 100%;">
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="reset" value="Reset" class="btn btn-secondary" style="width: 100%;">
+                    </div>
+                </div>
             </form>
         </div>
     </div>
