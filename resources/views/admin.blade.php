@@ -57,7 +57,7 @@
         </div>
         <div class="col-lg-2">
             <div class="form-group">
-                <input type="number" name="" id="" class="form-control dash-imput" placeholder="Customer Name">
+                <input type="number" name="" id="" class="form-control dash-imput" placeholder="">
             </div>
         </div>
     </div>
