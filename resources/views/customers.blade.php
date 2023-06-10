@@ -48,7 +48,14 @@
     <div class="col-lg-6">
         <div class="dash-card">
             <form action="" method="post">
-                
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="code"><input type="text" name="" id="" class="form-control" placeholder="Customer Code"></label>
+                    </div>
+                </div>
             </form>
         </div>
     </div>
