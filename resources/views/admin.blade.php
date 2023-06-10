@@ -84,7 +84,7 @@
         <div class="col-lg-8">
         </div>
         <div class="col-lg-2">
-            
+            Invoice No
         </div>
     </div>
 </div>
