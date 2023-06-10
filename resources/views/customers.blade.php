@@ -114,7 +114,7 @@
     <div class="col-lg-6">
         <div class="dash-card">
             <table class="table">
-                <thead>
+                <thead class="table-primary">
                   <tr>
                     <th scope="col">Code</th>
                     <th scope="col">Name</th>
