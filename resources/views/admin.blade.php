@@ -72,11 +72,11 @@
 
         </div>
         <div class="col-lg-2">
-            <h4 class="text-end">No:</h4>
+            <h4 class="text-end">Date:</h4>
         </div>
         <div class="col-lg-2">
             <div class="form-group">
-                <input type="number" name="" id="" class="form-control dash-imput" placeholder="">
+                <input type="date" name="" id="" class="form-control dash-imput" placeholder="">
             </div>
         </div>
     </div>
