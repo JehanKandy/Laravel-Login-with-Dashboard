@@ -92,5 +92,19 @@
     </div>
 </div>
 
-
+<table class="table">
+    <thead class="table-light">
+        <tr>
+            <th>Item Code</th>
+            <th>Item Name</th>
+            <th>Price</th>
+            <th>Qty</th>
+            <th>Weight</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+    </tbody>
+  </table>
 @endsection
