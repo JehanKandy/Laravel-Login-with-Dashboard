@@ -166,7 +166,13 @@
             <div class="col-lg-3">
                 <div class="input-group mb-3">
                     <h5 class="input-text">Credit</h5>
-                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                    <input type="text" class="form-control" placeholder="Credit">
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Gross Amount</h5>
+                    <input type="text" class="form-control" placeholder="Gross Amount">
                 </div>
             </div>
       </div>
