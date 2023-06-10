@@ -36,7 +36,9 @@
             <h3>Customer : </h3>
         </div>
         <div class="col-lg-2">
-            
+            <div class="form-group">
+                <input type="text" name="" id="" class="form-control" placeholder="Customer No">
+            </div>
         </div>
         <div class="col-lg-2">
             
