@@ -216,12 +216,16 @@
         <div class="col-lg-6">               
                 </div>
                 <div class="col-lg-3">
-                    <button type="button" class="btn btn-primary btn-lg">Large button</button>
-                    <button type="button" class="btn btn-secondary btn-lg">Large button</button>
+                    <center>
+                        <button type="button" class="btn btn-danger btn-lg">Delete</button>
+                        <button type="button" class="btn btn-info btn-lg">Print</button>
+                    </center>
                 </div>
                 <div class="col-lg-3">
-                    <button type="button" class="btn btn-primary btn-lg">Large button</button>
-                    <button type="button" class="btn btn-secondary btn-lg">Large button</button>
+                    <center>
+                        <button type="button" class="btn btn-success btn-lg">Save</button>
+                        <button type="button" class="btn btn-secondary btn-lg">Reset</button>
+                    </center>
                 </div>
             </div>            
         
