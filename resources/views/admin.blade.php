@@ -182,14 +182,14 @@
             </div>
             <div class="col-lg-3">
                 <div class="input-group mb-3">
-                    <h5 class="input-text">Credit</h5>
-                    <input type="text" class="form-control" placeholder="Credit">
+                    <h5 class="input-text">Cash</h5>
+                    <input type="text" class="form-control" placeholder="Cash">
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="input-group mb-3">
-                    <h5 class="input-text">Gross Amount</h5>
-                    <input type="text" class="form-control" placeholder="Gross Amount">
+                    <h5 class="input-text">Transport</h5>
+                    <input type="text" class="form-control" placeholder="Transport">
                 </div>
             </div>
       </div>
@@ -198,14 +198,14 @@
             </div>
             <div class="col-lg-3">
                 <div class="input-group mb-3">
-                    <h5 class="input-text">Credit</h5>
-                    <input type="text" class="form-control" placeholder="Credit">
+                    <h5 class="input-text">Cheque</h5>
+                    <input type="text" class="form-control" placeholder="Cheque">
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="input-group mb-3">
-                    <h5 class="input-text">Gross Amount</h5>
-                    <input type="text" class="form-control" placeholder="Gross Amount">
+                    <h5 class="input-text">Net Amount</h5>
+                    <input type="text" class="form-control" placeholder="Net Amount">
                 </div>
             </div>
     </div>
