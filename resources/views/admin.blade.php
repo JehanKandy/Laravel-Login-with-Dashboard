@@ -106,7 +106,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+            <tr class="table-active">
                 <td>100</td>
                 <td></td>
                 <td></td>
@@ -122,7 +122,7 @@
                 <td></td>
                 <td></td>
             </tr>
-            <tr>
+            <tr class="table-active">
                 <td>102</td>
                 <td></td>
                 <td></td>
@@ -138,7 +138,7 @@
                 <td></td>
                 <td></td>
             </tr>
-            <tr>
+            <tr class="table-active">
                 <td>104</td>
                 <td></td>
                 <td></td>
