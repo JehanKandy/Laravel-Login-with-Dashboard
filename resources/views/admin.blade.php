@@ -6,6 +6,8 @@
         border-radius: 5px;
         width: 100%;
         padding: 20px 30px;
+        box-shadow: 10px 10px 5px #b7f3df;
+
     }
     .dash-imput{
         width: 100%;
