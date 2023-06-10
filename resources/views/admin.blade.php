@@ -94,7 +94,7 @@
         </div>
     </div>
 
-    <table class="table dash-tabel">
+    <table class="table table-striped table-hover dash-tabel">
         <thead class="table-light">
             <tr>
                 <th>Item Code</th>
@@ -106,7 +106,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr class="table-active">
+            <tr>
                 <td>100</td>
                 <td></td>
                 <td></td>
@@ -122,7 +122,7 @@
                 <td></td>
                 <td></td>
             </tr>
-            <tr class="table-active">
+            <tr>
                 <td>102</td>
                 <td></td>
                 <td></td>
@@ -138,7 +138,7 @@
                 <td></td>
                 <td></td>
             </tr>
-            <tr class="table-active">
+            <tr>
                 <td>104</td>
                 <td></td>
                 <td></td>
