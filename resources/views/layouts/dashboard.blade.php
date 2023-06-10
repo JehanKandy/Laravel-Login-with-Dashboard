@@ -109,6 +109,9 @@
                 margin-left: -15rem;
             }
             }
+            .main-container{
+                margin: 20px 30px;
+            }
 
     </style>
 
