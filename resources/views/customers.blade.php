@@ -9,18 +9,10 @@
         box-shadow: 10px 10px 5px #b7f3df;
 
     }
-    .dash-imput{
+    .dash-imputs{
         width: 100%;
     }
-    .dash-tabel{
-        margin: 20px 0;
-    }
-    .input-text{
-        padding: 10px 15px;
-    }
-    .dash-btn{
-        width: 50%
-    }
+
 </style>
 
 @section('content')
@@ -49,13 +41,62 @@
         <div class="dash-card">
             <form action="" method="post">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-4">
                         <label for="code">Customer Code : </label>
                     </div>
-                    <div class="col-lg-6">
-                        <label for="code"><input type="text" name="" id="" class="form-control" placeholder="Customer Code"></label>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
                     </div>
                 </div>
+                <br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <label for="code">Customer Code : </label>
+                    </div>
+                    <div class="col-lg-8">
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                    </div>
+                </div><br>
             </form>
         </div>
     </div>
