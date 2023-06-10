@@ -193,7 +193,12 @@
                 </div>
             </nav>
 
-            @yield('content')
+
+            <div class="main-container">
+                @yield('content')
+            </div>
+                
+
 
         </div>
     </div>
