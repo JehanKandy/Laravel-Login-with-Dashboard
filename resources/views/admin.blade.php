@@ -10,6 +10,9 @@
     .dash-imput{
         width: 100%;
     }
+    .dash-tabel{
+        margin: 20px 0;
+    }
 </style>
 
 @section('content')
@@ -91,7 +94,7 @@
         </div>
     </div>
 
-    <table class="table">
+    <table class="table dash-tabel">
         <thead class="table-light">
             <tr>
                 <th>Item Code</th>
@@ -104,7 +107,39 @@
         </thead>
         <tbody>
             <tr>
+                <td>100</td>
                 <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>104</td>
                 <td></td>
                 <td></td>
                 <td></td>
