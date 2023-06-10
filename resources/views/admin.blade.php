@@ -69,7 +69,6 @@
             <input type="text" name="" id="" class="form-control dash-imput" placeholder="Description">
         </div>
         <div class="col-lg-2">
-
         </div>
         <div class="col-lg-2">
             <h4 class="text-end">Date:</h4>
@@ -78,6 +77,11 @@
             <div class="form-group">
                 <input type="date" name="" id="" class="form-control dash-imput" placeholder="">
             </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-8">
         </div>
     </div>
 </div>
