@@ -19,4 +19,8 @@ Dashboard with Laravel Login
     - php artisan db:seed
     - php artisan serve
 
-8. 
+8. after `php artisan serve` you can see
+
+    Server running on [http://127.0.0.1:8000].  
+
+9. go to that link
