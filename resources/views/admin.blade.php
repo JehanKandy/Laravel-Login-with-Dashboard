@@ -52,10 +52,12 @@
             Customer : <a href="">Create</a> | <a href="">Search</a>
         </div>
         <div class="col-lg-2">
-            
+            No:
         </div>
         <div class="col-lg-2">
-            
+            <div class="form-group">
+                <input type="number" name="" id="" class="form-control dash-imput" placeholder="Customer Name">
+            </div>
         </div>
     </div>
 </div>
