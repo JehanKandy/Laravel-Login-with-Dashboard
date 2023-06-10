@@ -176,45 +176,57 @@
                 </div>
             </div>
       </div>
+      
       <div class="row">
-            <div class="col-lg-6">
-                <table class="table table-striped table-hover dash-tabel">
-                    <thead class="table-primary">
-                        <tr>
-                            <th>Code</th>
-                            <th>Description</th>
-                            <th>Quantity</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>110</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>111</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>112</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>113</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td>114</td>
-                            <td></td>
-                            <td></td>
-                        </tr>
-                    </tbody>
-                  </table>
+            <div class="col-lg-6">               
             </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Credit</h5>
+                    <input type="text" class="form-control" placeholder="Credit">
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Gross Amount</h5>
+                    <input type="text" class="form-control" placeholder="Gross Amount">
+                </div>
+            </div>
+      </div>
+      <div class="row">
+            <div class="col-lg-6">               
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Credit</h5>
+                    <input type="text" class="form-control" placeholder="Credit">
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group mb-3">
+                    <h5 class="input-text">Gross Amount</h5>
+                    <input type="text" class="form-control" placeholder="Gross Amount">
+                </div>
+            </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">               
+                </div>
+                <div class="col-lg-3">
+                    <div class="input-group mb-3">
+                        <h5 class="input-text">Credit</h5>
+                        <input type="text" class="form-control" placeholder="Credit">
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="input-group mb-3">
+                        <h5 class="input-text">Gross Amount</h5>
+                        <input type="text" class="form-control" placeholder="Gross Amount">
+                    </div>
+                </div>
+        </div>
+            
+        </div>
       </div>
 
 </div>
