@@ -1,5 +1,14 @@
 @extends('layouts.dashboard')
 
+<style>
+    .dash-card{
+        background-color: white;
+        border-radius: 5px;
+        width: 100%;
+        padding: 20px 30px;
+    }
+</style>
+
 @section('content')
 {{-- <div class="container">
     <div class="row justify-content-center">
@@ -20,8 +29,6 @@
         </div>
     </div>
 </div> --}}
-
-hi all I am  {{ Auth::user()->name }}
 
 <div class="dash-card">
     <div class="row">
