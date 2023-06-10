@@ -86,6 +86,9 @@
         <div class="col-lg-2">
             <h4 class="text-end">Invoice No:</h4>            
         </div>
+        <div class="col-lg-2">
+            <input type="text" name="" id="" class="form-control dash-imput">
+        </div>
     </div>
 </div>
 
