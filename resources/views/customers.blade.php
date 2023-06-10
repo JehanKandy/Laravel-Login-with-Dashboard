@@ -47,8 +47,9 @@
 <div class="row">
     <div class="col-lg-6">
         <div class="dash-card">
-    
-
+            <form action="" method="post">
+                
+            </form>
         </div>
     </div>
     <div class="col-lg-6">
