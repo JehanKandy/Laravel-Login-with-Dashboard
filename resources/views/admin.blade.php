@@ -179,7 +179,7 @@
       <div class="row">
             <div class="col-lg-6">
                 <table class="table table-striped table-hover dash-tabel">
-                    <thead class="table-light">
+                    <thead class="table-primary">
                         <tr>
                             <th>Code</th>
                             <th>Description</th>
