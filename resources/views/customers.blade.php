@@ -51,50 +51,50 @@
                 <br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Customer Name : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Name"></label>
                     </div>
                 </div><br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Address 01 : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="No"></label>
                     </div>
                 </div><br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Address 02 : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Street"></label>
                     </div>
                 </div><br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Address 03 : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="City"></label>
                     </div>
                 </div><br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Phone Number : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Mobile"></label>
                     </div>
                 </div><br>
                 <div class="row">
                     <div class="col-lg-4">
-                        <label for="code">Customer Code : </label>
+                        <label for="code">Email : </label>
                     </div>
                     <div class="col-lg-8">
-                        <label for="code"><input type="text" name="" id="" class="form-control dash-inputs" placeholder="Customer Code"></label>
+                        <label for="code"><input type="email" name="" id="" class="form-control dash-inputs" placeholder="Email"></label>
                     </div>
                 </div><br>
             </form>
