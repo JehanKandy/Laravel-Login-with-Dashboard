@@ -123,10 +123,10 @@
         <div class="bg-white" id="sidebar-wrapper">
             <div class="sidebar-heading text-center py-4 primary-text fs-4 fw-bold text-uppercase border-bottom">Dashboard</div>
             <div class="list-group list-group-flush my-3">
-                <a href="{{ url(customers); }}" class="list-group-item list-group-item-action bg-transparent second-text active"><i
+                <a href="{{url('/superadmin')}}" class="list-group-item list-group-item-action bg-transparent second-text active"><i
                         class="fas fa-tachometer-alt me-2"></i>Dashboard</a>
-                <a href="#" class="list-group-item list-group-item-action bg-transparent second-text fw-bold"><i
-                        class="fas fa-project-diagram me-2"></i>Projects</a>
+                <a href="{{url('/customers')}}" class="list-group-item list-group-item-action bg-transparent second-text fw-bold"><i
+                        class="fas fa-users me-2"></i>Customers</a>
                 <a href="#" class="list-group-item list-group-item-action bg-transparent second-text fw-bold"><i
                         class="fas fa-chart-line me-2"></i>Analytics</a>
                 <a href="#" class="list-group-item list-group-item-action bg-transparent second-text fw-bold"><i
